@@ -2,101 +2,101 @@
     {
         "id": "1",
         "name": "HTML 5",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "12 h",
+        "coursePrice": "80",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/Bn3dY5d/html.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "6"
     },
     {
         "id": "2",
         "name": "CSS",
-        "time": "12 Hourse",
+        "time": "10 h",
         "coursePrice": "100",
-        "ratings": "4.5",
+        "ratings": "4.3",
         "thumbnail": "https://i.ibb.co/wJnhq6F/css.webp",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "7"
     },
     {
         "id": "3",
         "name": "Bootstrap 5",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "7 h",
+        "coursePrice": "50",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/56GgDCr/bootstrap5.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "4"
     },
     {
         "id": "4",
         "name": "Tailwind CSS",
-        "time": "12 Hourse",
+        "time": "10 h",
         "coursePrice": "100",
-        "ratings": "4.5",
+        "ratings": "5",
         "thumbnail": "https://i.ibb.co/k867Sx1/tailwind.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "4"
     },
     {
         "id": "5",
         "name": "JavaScript",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "18 h",
+        "coursePrice": "130",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/PFFSRd7/js.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "16"
     },
     {
         "id": "6",
         "name": "React JS",
-        "time": "12 Hourse",
-        "coursePrice": "100",
-        "ratings": "4.5",
+        "time": "13 h",
+        "coursePrice": "180",
+        "ratings": "5",
         "thumbnail": "https://i.ibb.co/DMmHHxy/ReactJS.png",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "16"
     },
     {
         "id": "7",
         "name": "MongoDB",
-        "time": "12 Hourse",
+        "time": "12 h",
         "coursePrice": "100",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/sq2YM0D/mongodb.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "4"
     },
     {
         "id": "8",
         "name": "React Native",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "12 h",
+        "coursePrice": "110",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/8zdPkBb/React-Native-Featured-Image.png",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "8"
     },
     {
         "id": "9",
         "name": "Python",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "12 h",
+        "coursePrice": "200",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/cy2C72C/python.jpg",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "18"
     },
     {
         "id": "10",
         "name": "C++",
-        "time": "12 Hourse",
-        "coursePrice": "100",
+        "time": "12 h",
+        "coursePrice": "190",
         "ratings": "4.5",
         "thumbnail": "https://i.ibb.co/6wN6Kff/c.png",
         "instructor": "Abdullah Husairy",
-        "lesson": "5"
+        "lesson": "20"
     }
 ]
