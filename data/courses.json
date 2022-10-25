@@ -5,7 +5,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/Bn3dY5d/html.jpg",
+        "thumbnail": "https://i.ibb.co/Bn3dY5d/html.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -15,7 +15,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/wJnhq6F/css.webp",
+        "thumbnail": "https://i.ibb.co/wJnhq6F/css.webp",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -25,7 +25,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/56GgDCr/bootstrap5.jpg",
+        "thumbnail": "https://i.ibb.co/56GgDCr/bootstrap5.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -35,7 +35,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/k867Sx1/tailwind.jpg",
+        "thumbnail": "https://i.ibb.co/k867Sx1/tailwind.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -45,7 +45,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/PFFSRd7/js.jpg",
+        "thumbnail": "https://i.ibb.co/PFFSRd7/js.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -55,7 +55,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/DMmHHxy/ReactJS.png",
+        "thumbnail": "https://i.ibb.co/DMmHHxy/ReactJS.png",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -65,7 +65,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/sq2YM0D/mongodb.jpg",
+        "thumbnail": "https://i.ibb.co/sq2YM0D/mongodb.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -75,7 +75,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/8zdPkBb/React-Native-Featured-Image.png",
+        "thumbnail": "https://i.ibb.co/8zdPkBb/React-Native-Featured-Image.png",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -85,7 +85,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/cy2C72C/python.jpg",
+        "thumbnail": "https://i.ibb.co/cy2C72C/python.jpg",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     },
@@ -95,7 +95,7 @@
         "time": "12 Hourse",
         "coursePrice": "100",
         "ratings": "4.5",
-        "thumbnailimg": "https://i.ibb.co/6wN6Kff/c.png",
+        "thumbnail": "https://i.ibb.co/6wN6Kff/c.png",
         "instructor": "Abdullah Husairy",
         "lesson": "5"
     }
