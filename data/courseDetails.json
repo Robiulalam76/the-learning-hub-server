@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "name": "HTML 5",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/Bn3dY5d/html.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but HTML 2.0 was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012. Why to Learn HTML Originally, HTML was developed with the intent of defining the structure of documents like heading paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language. HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML. Create Web site - You can create a website or customize an existing web template if you know HTML well. Become a web designer - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill. Understand web - If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results. Learn other languages - Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
+        }
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/wJnhq6F/css.webp",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "CSS is used to control the style of a web document in a simple and easy way. CSS is the acronym for Cascading Style Sheet. This tutorial covers both the versions CSS1,CSS2 and CSS3, and gives a complete understanding of CSS, starting from its basics to advanced concepts. Why to Learn CSS? Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable. CSS is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning CSS: Create Stunning Web site - CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects. Become a web designer - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill.Control web - CSS is easy to learn and understand but it provides powerful control over the presentation of an HTML document. Most commonly, CSS is combined with the markup languages HTML or XHTML.Learn other languages - Once you understands the basic of HTML and CSS then other related technologies like javascript, php, or angular are become easier to understand."
+        }
+    },
+    {
+        "id": "3",
+        "name": "Bootstrap 5",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/56GgDCr/bootstrap5.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface components like forms, buttons, navigations, dropdowns, alerts, modals, tabs, accordions, carousels, tooltips, and so on. Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.Bootstrap was originally created by a designer and a developer at Twitter in mid-2010. Before being an open-sourced framework, Bootstrap was known as Twitter Blueprint.You can save a lot of time and effort with Bootstrap. So bookmark this website and continue on. What You Can Do with Bootstrap There are lot more things you can do with Bootstrap. You can easily create responsive websites. You can quickly create multi-column layout with pre-defined classes. You can quickly create different types of form layouts. you can quickly create different variation of navigation bar. You can easily create components like accordions, modals, etc. without writing any JS code.You can easily create dynamic tabs to manage large amount of content. You can easily create tooltips and popovers to show hint text. You can easily create carousel or image slider to showcase your content. You can quickly create different types of alert boxes."
+        }
+    },
+    {
+        "id": "4",
+        "name": "Tailwind CSS",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/k867Sx1/tailwind.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "Tailwind CSS is basically a Utility first CSS framework for building rapid custom UI. It is a highly customizable, low-level CSS framework that gives you all of the building blocks that you need. Also, it is a cool way to write inline styling and achieve an awesome interface without writing a single line of your own CSS. Why Tailwind CSS ? As we know there are many CSS frameworks but people always choose the fast and easy framework to learn and use in the project. Tailwind has come with inbuilt a lot of features and styles for users to choose from and is also used to reduce the tendency of writing CSS code and create a beautiful custom UI. It will help you to overcome complicated task. Tailwind CSS creates small utilities with a defined set of options enabling easy integration of existing classes directly into the HTML code."
+        }
+    },
+    {
+        "id": "5",
+        "name": "JavaScript",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/PFFSRd7/js.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform. Why to Learn Javascript Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript: Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc. Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript. Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience. JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer. Due to high demand, there is tons of job growth and high pay for those who know JavaScript. You can navigate over to different job sites to see what having JavaScript skills looks like in the job market.Great thing about Javascript is that you will find tons of frameworks and Libraries already developed which can be used directly in your software development to reduce your time to market."
+        }
+    },
+    {
+        "id": "6",
+        "name": "React JS",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/DMmHHxy/ReactJS.png",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram.Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more. Why we use ReactJS? The main objective of ReactJS is to develop User Interfaces (UI) that improves the speed of the apps. It uses virtual DOM (JavaScript object), which improves the performance of the app. The JavaScript virtual DOM is faster than the regular DOM. We can use ReactJS on the client and server-side as well as with other frameworks. It uses component and data patterns that improve readability and helps to maintain larger apps."
+        }
+    },
+    {
+        "id": "7",
+        "name": "MongoDB",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/sq2YM0D/mongodb.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "MongoDB tutorial provides basic and advanced concepts of SQL. Our MongoDB tutorial is designed for beginners and professionals. MongoDB is a No SQL database. It is an open-source, cross-platform, document-oriented database written in C++. Our MongoDB tutorial includes all topics of MongoDB database such as insert documents, update documents, delete documents, query documents, projection, sort() and limit() methods, create a collection, drop collection, etc. There are also given MongoDB interview questions to help you better understand the MongoDB database. What is MongoDB MongoDB is an open-source document database that provides high performance, high availability, and automatic scaling. In simple words, you can say that - Mongo DB is a document-oriented database. It is an open source product, developed and supported by a company named 10gen. MongoDB is available under General Public license for free, and it is also available under Commercial license from the manufacturer. The manufacturing company 10gen has defined MongoDB as: MongoDB is a scalable, open source, high performance, document-oriented database.- 10gen MongoDB was designed to work with commodity servers. Now it is used by the company of all sizes, across all industry."
+        }
+    },
+    {
+        "id": "8",
+        "name": "React Native",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/8zdPkBb/React-Native-Featured-Image.png",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React Native specific stuff, like the native components. This tutorial is aimed at all audiences, whether you have React experience or not. What's going on here? First of all, we need to import React to be able to use JSX, which will then be transformed to the native components of each platform. On line 2, we import the Text and View components from react-native Then we define the HelloWorldApp function, which is a functional component and behaves in the same way as in React for the web. This function returns a View component with some styles and aText as its child. The Text component allows us to render a text, while the View component renders a container. This container has several styles applied, let's analyze what each one is doing. The first style that we find is flex: 1, the flex prop will define how your items are going to fill over the available space along your main axis. Since we only have one container, it will take all the available space of the parent component. In this case, it is the only component, so it will take all the available screen space. The following style is justifyContent: center. This aligns children of a container in the center of the container's main axis. Finally, we have alignItems: center, which aligns children of a container in the center of the container's cross axis. Some of the things in here might not look like JavaScript to you. Don't panic. This is the future. First of all, ES2015 (also known as ES6) is a set of improvements to JavaScript that is now part of the official standard, but not yet supported by all browsers, so often it isn't used yet in web development. React Native ships with ES2015 support, so you can use this stuff without worrying about compatibility. import, export, const and from in the example above are all ES2015 features. If you aren't familiar with ES2015, you can probably pick it up by reading through sample code like this tutorial has. If you want, this page has a good overview of ES2015 features."
+        }
+    },
+    {
+        "id": "9",
+        "name": "Python",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/cy2C72C/python.jpg",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer. What is Python? Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation. This tutorial gives a complete understanding of Python programming language starting from basic conceopts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language. Python Jobs Today, Python is very high in demand and all the major companies are looking for great Python Programmers to develop websites, software components, and applications or to work with Data Science, AI, and ML technologies. When we are developing this tutorial in 2022, there is a high shortage of Python Programmers where as market demands more number of Python Programmers due to it's application in Machine Learning, Artificial Intelligence etc."
+        }
+    },
+    {
+        "id": "10",
+        "name": "C++",
+        "time": "12 Hourse",
+        "coursePrice": "100",
+        "ratings": "4.5",
+        "thumbnail": "https://i.ibb.co/6wN6Kff/c.png",
+        "instructor": "Abdullah Husairy",
+        "lesson": "5",
+        "details_info": {
+            "description": "C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This C++ tutorial adopts a simple and practical approach to describe the concepts of C++ for beginners to advanded software engineers. Why to Learn C++ is a MUST for students and working professionals to become a great Software Engineer. I will list down some of the key advantages of learning C++: C++ is very close to hardware, so you get a chance to work at a low level which gives you lot of control in terms of memory management, better performance and finally a robust software development. C++ programming gives you a clear understanding about Object Oriented Programming. You will understand low level implementation of polymorphism when you will implement virtual tables and virtual table pointers, or dynamic type identification. C++ is one of the every green programming languages and loved by millions of software developers. If you are a great C++ programmer then you will never sit without work and more importantly you will get highly paid for your work. C++ is the most widely used programming languages in application and system programming. So you can choose your area of interest of software development. C++ really teaches you the difference between compiler, linker and loader, different data types, storage classes, variable types their scopes etc.There are 1000s of good reasons to learn C++ Programming. But one thing for sure, to learn any programming language, not only C++, you just need to code, and code and finally code until you become expert."
+        }
+    }
+]
